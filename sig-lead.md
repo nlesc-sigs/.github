@@ -15,6 +15,7 @@ Recurrent per meeting:
 
 During:
 
+- Join Teams and invite the meeting room
 - Start recording
 - Follow agenda/presentation
 - Try to keep time
