@@ -9,7 +9,7 @@ The current active SIGs are:
 - [:file_cabinet: Efficient Data Handling (EDH)](https://github.com/nlesc-sigs/data-sig)
 - [:bar_chart: Analytics & Visualization (A&V)](https://github.com/nlesc-sigs/analytics-visualization-sig)
 - [:shield: Software Quality & Sustainability (SQ&S)](https://github.com/nlesc-sigs/SQS-sig)
-- [:handshake: Soft Skills (SoS)](https://github.com/nlesc-sigs/soft-skill-sig)
+- [:handshake: Soft Skills (SoS)](https://github.com/nlesc-sigs/soft-skills-sig)
 
 Useful links:
 
