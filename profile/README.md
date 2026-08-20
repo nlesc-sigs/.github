@@ -14,3 +14,4 @@ The current active SIGs are:
 Useful links:
 
 - [Sharepoint link to SIGs](https://nlesc.sharepoint.com/sites/sigs/)
+- [SIG lead resources](../sig-lead.md)
